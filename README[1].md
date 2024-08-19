@@ -1,6 +1,7 @@
 **Creacion de apllicacion inventario**
 
-
+Hecho : Miguel Gomez
+        Ivan Perdomo
 **Objetivo**
 
 - Una aplicación de inventario , seguimiento y optimización del inventario de una empresa o negocio. Su función fundamental consiste en facilitar un control preciso y eficiente de los bienes o productos disponibles, asegurando la disponibilidad adecuada para satisfacer la demanda, sin incurrir en excesos que puedan generar costos adicionales.
